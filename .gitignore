@@ -1,0 +1,8 @@
+# JS11 dataset (10.000+ file citra)
+JS11/dataset/
+JS11/__MACOSX/
+
+# Jupyter / Python artifacts
+__pycache__/
+.ipynb_checkpoints/
+JS11/_exec_*.log
